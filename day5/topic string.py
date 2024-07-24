@@ -1,0 +1,10 @@
+str="  applEwell  "
+print(str.upper())
+print(str.lower())
+print(str.capitalize())
+print(str.title())
+print(str.swapcase())
+print(str.strip())
+print(str.replace('l','w'))
+print(str.split())
+print(str.split('a'))
